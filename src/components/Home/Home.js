@@ -20,13 +20,13 @@ export default function Home(props){
                 <div>
                 <h1>Eventify</h1>
                     <p className="tagline">
-                        <em> ‘ Simplify ’ your Events </em>
+                        <em> Event ticketing made simple </em>
                     </p>
                     <p className="about">
-                    Explore the magic of our application 'EVENTIFY'.
-                    A go-to solution for managing amazing events effortlessly. From easy sign-ups to registering and managing event schedules, our user-friendly platform has everything you need for a flawless experience. 
-                    With powerful features, trust our system to handle the details, and let's bring your event vision to life!!!
+                    Say goodbye to the stress of organizing events and hello to seamless planning with EVENTIFY! Our all-in-one platform simplifies every step, from quick sign-ups and smooth registrations to hassle-free schedule management. Whether you're hosting a corporate conference, a grand wedding, or an intimate gathering, EVENTIFY ensures a flawless experience for both organizers and attendees. 
+                    With an intuitive interface and powerful features, our system handles all the details, so you can focus on creating memorable moments. Trust EVENTIFY to bring your event vision to life—effortlessly, efficiently, and with a touch of magic! 🚀✨
                     </p>
+                    
                 </div>
                 
                 <Login/>
@@ -41,12 +41,11 @@ export default function Home(props){
                 <div>
                 <h1>Eventify</h1>
                     <p className="tagline">
-                        <em> ‘ Simplify ’ your Events </em>
+                        <em> Event ticketing made simple </em>
                     </p>
                     <p className="about">
-                    Explore the magic of our application 'EVENTIFY'.
-                    A go-to solution for managing amazing events effortlessly. From easy sign-ups to registering and managing event schedules, our user-friendly platform has everything you need for a flawless experience. 
-                    With powerful features, trust our system to handle the details, and let's bring your event vision to life!!!
+                    Say goodbye to the stress of organizing events and hello to seamless planning with EVENTIFY! Our all-in-one platform simplifies every step, from quick sign-ups and smooth registrations to hassle-free schedule management. Whether you're hosting a corporate conference, a grand wedding, or an intimate gathering, EVENTIFY ensures a flawless experience for both organizers and attendees. 
+                    With an intuitive interface and powerful features, our system handles all the details, so you can focus on creating memorable moments. Trust EVENTIFY to bring your event vision to life—effortlessly, efficiently, and with a touch of magic! 🚀✨
                     </p>
                 </div>
             </div>
